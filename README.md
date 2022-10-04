@@ -8,6 +8,7 @@ The SMD resistor is an 0603 with hand soldering footprint
 Calculate your resistor based on the LED you choose and the power source form the Pinecil you decide to use as well.
 
 Recommend a header for the power and ground or you can solder sold strand wire preferrably to the holes and to the iron.
+Will update to SPI controlled lights when a known SPI connection is possible.
 
 
 The info on size of board according to Oshpark is: 2 layer board of 0.84 x 0.67 inches (21.2 x 17.1 mm)
