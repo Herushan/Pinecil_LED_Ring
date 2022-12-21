@@ -2,7 +2,7 @@
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
 
 The board is all done in KiCad and the zip file is all you need to produce a board. 
-The LED is a 3mm LED
+The LED is a 3mm LED with a third LED that is 0603
 The SMD resistor is an 0603 with hand soldering footprint
 Doing an update to add an 0805 LED on the bottom to help with shadowing. Will push updated files when prototypes get verified.
 
