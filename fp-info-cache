@@ -1,4 +1,4 @@
-23979156340743401
+23982650577564744
 Air_Coils_SML_NEOSID
 Neosid_Air-Coil_SML_1turn_HDM0131A
 Neosid, Air-Coil, SML, 1turn, HDM0131A,
@@ -54502,6 +54502,13 @@ BW_herushan_Single_filled_medium
 0
 0
 CustomSilkScreen
+BW_herushan_Single_filled_medium_FrontMask
+
+
+0
+0
+0
+CustomSilkScreen
 BW_herushan_Single_filled_medium_masks
 
 
@@ -103564,6 +103571,13 @@ SAINTCON Minibadge
 0
 8
 8
+minibadge_kicad
+SAINTCON-Minibadge_herushanFMask
+SAINTCON Minibadge https://github.com/lukejenkins/minibadge
+SAINTCON Minibadge
+0
+16
+16
 minibadge_kicad
 SAINTCON-Minibadge_top
 SAINTCON Minibadge https://github.com/lukejenkins/minibadge
