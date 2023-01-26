@@ -1,5 +1,6 @@
 # Pinecil_LED_Ring
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
+Recommend looking at the pictures and details to the inital two LED writeup (Pinecil_LED_Ring_writeup.pdf) that is here in the GitHub. The square holes are negative and round is positive. Arrow points to negative or left looking at board with LED at bottom.
 
 The board is all done in KiCad and the zip file is all you need to produce a board. 
 The LED is a 3mm LED with a third LED that is 0805
