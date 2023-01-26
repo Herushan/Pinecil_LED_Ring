@@ -2,8 +2,8 @@
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
 
 The board is all done in KiCad and the zip file is all you need to produce a board. 
-The LED is a 3mm LED with a third LED that is 0603
-The SMD resistor is an 0603 with hand soldering footprint
+The LED is a 3mm LED with a third LED that is 0805
+The SMD resistor is an 0805 with hand soldering footprint
 Doing an update to add an 0805 LED on the bottom to help with shadowing. Will push updated files when prototypes get verified.
 
 Calculate your resistor based on the LED you choose and the power source form the Pinecil you decide to use as well. Resistor should be around 75ohms with 3.2V forward voltage and 20 mA forward current on the LED.
@@ -14,3 +14,5 @@ Will update to SPI controlled lights when a known SPI connection is possible. Th
 
 
 The info on size of board according to Oshpark is: 2 layer board of 0.84 x 0.67 inches (21.2 x 17.1 mm)
+LED that works for the pad: https://www.digikey.com/en/products/detail/harvatek-corporation/B1701TX-20P000614U1930/16671745
+Resitor that works: https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF75R0/1983560
