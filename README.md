@@ -1,5 +1,8 @@
 # Pinecil_LED_Ring
+Finished board with ideal LED combination.
 ![Finished on Pinecil V2](https://user-images.githubusercontent.com/11600701/229526712-a325feed-b0db-4e21-88da-b15dfb0e2050.jpg)
+
+White boards are final design to date and have the two LED methods of assembly shown. The yellow board is 1st draft of 3 LED design that missed some PCB info.
 ![White boards are final one with 3 SMD LEDs and one with ideal kitting 2 through hole and 1 SMD LED](https://user-images.githubusercontent.com/11600701/229527973-ac94ad17-4ff0-4593-b01a-694673d7ccf6.jpg)
 
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
@@ -10,6 +13,8 @@ The board is all done in KiCad and the zip file is all you need to produce a boa
 The LED is a 3mm LED with a third LED that is 0805
 The SMD resistor is an 0805 with hand soldering footprint
 Updated with an 0805 LED on the bottom to help with shadowing.
+
+Kit with all the parts.
 ![Kit](https://user-images.githubusercontent.com/11600701/229527068-05a625a5-869c-4610-959b-0d75b36e5cd8.jpg)
 
 Assembly of kit video (Video of soldering to Pinecil V2 coming later)
