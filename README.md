@@ -1,22 +1,31 @@
 # Pinecil_LED_Ring
+![Finished on Pinecil V2](https://user-images.githubusercontent.com/11600701/229526712-a325feed-b0db-4e21-88da-b15dfb0e2050.jpg)
+![White boards are final one with 3 SMD LEDs and one with ideal kitting 2 through hole and 1 SMD LED](https://user-images.githubusercontent.com/11600701/229527973-ac94ad17-4ff0-4593-b01a-694673d7ccf6.jpg)
+
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
 Recommend looking at the pictures and details to the inital two LED writeup (Pinecil_LED_Ring_writeup.pdf) that is here in the GitHub. The square holes are negative and round is positive. Arrow points to negative or left looking at board with LED at bottom.
+![LED position](https://user-images.githubusercontent.com/11600701/229527044-bc8cfd04-92c3-4f6d-9502-6295e74ce870.jpg)
 
 The board is all done in KiCad and the zip file is all you need to produce a board. 
 The LED is a 3mm LED with a third LED that is 0805
 The SMD resistor is an 0805 with hand soldering footprint
-Doing an update to add an 0805 LED on the bottom to help with shadowing. Will push updated files when prototypes get verified.
+Updated with an 0805 LED on the bottom to help with shadowing.
+![Kit](https://user-images.githubusercontent.com/11600701/229527068-05a625a5-869c-4610-959b-0d75b36e5cd8.jpg)
+
+Assembly of kit video (Video of soldering to Pinecil V2 coming later)
+https://youtu.be/LMbjwjDbSew
 
 Calculate your resistor based on the LED you choose and the power source form the Pinecil you decide to use as well. Resistor should be around 75ohms with 3.2V forward voltage and 20 mA forward current on the LED.
 
-Recommend a header for the power and ground or you can solder sold strand wire preferrably to the holes and to the iron. Wire should be small as 30/32 awg is currently what I am using but hole supports upto .015 inch wire which should be around 26 awg max.
+Recommend soldering (being careful small gap and size to board holes) the power and ground with sold strand wire preferrably to the holes and to the iron. Wire should be small as 30/32 awg is currently what I am using but hole supports upto .015 inch wire which should be around 26 awg max.
 
-Will update to SPI controlled lights when a known SPI connection is possible. This might not come and optional mod to add switch for on/off control for those that do not want to always be on will be looked at. I actually find it always being on nice.
+***May not happen*** Will update to SPI controlled lights when a known SPI connection is possible. This might not come and optional mod to add switch for on/off control for those that do not want to always be on will be looked at. I actually find it always being on nice.
 
 Recommend reading the wiki (https://wiki.pine64.org/wiki/Pinecil) for guides to opening the Pinecil (https://www.youtube.com/watch?v=aK01V5DrrVk).
 
 The info on size of board according to Oshpark is: 2 layer board of 0.84 x 0.67 inches (21.2 x 17.1 mm)
-LED that works for the pad: https://www.digikey.com/en/products/detail/harvatek-corporation/B1701TX-20P000614U1930/16671745
+Any 3mm through hole LED will work.
+SMD LED that works for the pad: https://www.digikey.com/en/products/detail/harvatek-corporation/B1701TX-20P000614U1930/16671745
 Resitor that works: https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF75R0/1983560
 
 Contact me on discord on the Pine64 channel for any questions through DM is fine.
