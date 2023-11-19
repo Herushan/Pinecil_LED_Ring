@@ -3,7 +3,8 @@ Finished board with ideal LED combination.
 ![Finished on Pinecil V2](https://user-images.githubusercontent.com/11600701/229526712-a325feed-b0db-4e21-88da-b15dfb0e2050.jpg)
 
 White boards are shown are with smaller holes and new design (November 2023) has larger holes with better spacing and have the two LED methods of assembly shown. The yellow board is 1st draft of 3 LED design that missed some PCB info.
-![White boards are final one with 3 SMD LEDs and one with ideal kitting 2 through hole and 1 SMD LED](https://user-images.githubusercontent.com/11600701/229527973-ac94ad17-4ff0-4593-b01a-694673d7ccf6.jpg)
+![White boards are final one with 3 SMD LEDs and one with ideal kitting 2 through hole and 1 SMD LED](https://user-images.githubusercontent.com/11600701/229527973-ac94ad17-4ff0-4593-b01a-694673d7ccf6.jpg) New updated wire connection holes (November 2023). ![1000003776](https://github.com/Herushan/Pinecil_LED_Ring/assets/11600701/a4525656-6f33-4f23-bb19-37d8116f10a0)
+
 
 LED ring attachment for the Pinecil V2 soldering iron (should work for V1 as well as it goes on the body)
 Recommend looking at the pictures and details to the inital two LED writeup (Pinecil_LED_Ring_writeup.pdf) that is here in the GitHub. The square holes are negative and round is positive. Arrow points to negative or left looking at board with LED at bottom.
