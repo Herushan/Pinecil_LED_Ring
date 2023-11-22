@@ -34,4 +34,4 @@ Any 3mm through hole LED will work.
 SMD LED that works for the pad: https://www.digikey.com/en/products/detail/harvatek-corporation/B1701TX-20P000614U1930/16671745
 Resitor that works: https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF75R0/1983560
 
-Contact me on discord on the Pine64 channel for any questions through DM is fine.
+Contact me on discord (@ahall(RuShan)) on the Pine64 channel for any questions through DM is fine.
