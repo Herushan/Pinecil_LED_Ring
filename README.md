@@ -32,6 +32,7 @@ Recommend reading the wiki (https://wiki.pine64.org/wiki/Pinecil) for guides to 
 The info on size of board according to Oshpark is: 2 layer board of 0.84 x 0.67 inches (21.2 x 17.1 mm)
 Any 3mm through hole LED will work.
 SMD LED that works for the pad: https://www.digikey.com/en/products/detail/harvatek-corporation/B1701TX-20P000614U1930/16671745
-Resitor that works: https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF75R0/1983560
+Resistor that works: https://www.digikey.com/en/products/detail/rohm-semiconductor/ESR10EZPF75R0/1983560
 
 Contact me on discord (@ahall(RuShan)) on the Pine64 channel for any questions through DM is fine.
+If you would like to use my referral link to elecrow for boards: https://www.elecrow.com/referral-program/MTM5NjdqMnQ/
