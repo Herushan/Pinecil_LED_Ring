@@ -36,3 +36,5 @@ Resistor that works: https://www.digikey.com/en/products/detail/rohm-semiconduct
 
 Contact me on discord (@ahall(RuShan)) on the Pine64 channel for any questions through DM is fine.
 If you would like to use my referral link to elecrow for boards: https://www.elecrow.com/referral-program/MTM5NjdqMnQ/
+
+I also shared the project on Elecrow here: https://www.elecrow.com/sharepj/pinecil-led-ring-add-on-358.html
