@@ -20,6 +20,8 @@ Kit with all the parts.
 
 Assembly of kit video (Video of soldering to Pinecil V2 coming later)
 https://youtu.be/LMbjwjDbSew
+Assembly to Pinecil
+https://youtu.be/VbyIGmIXqKs
 
 Calculate your resistor based on the LED you choose and the power source form the Pinecil you decide to use as well. Resistor should be around 75ohms with 3.2V forward voltage and 20 mA forward current on the LED.
 
